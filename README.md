@@ -38,6 +38,5 @@ This project is open source and available under the MIT License.
 
 ## Acknowledgments
 
-- Thanks to all the contributors who have helped with the development of this Age Calculator.
-- Special thanks to the web development community for their continuous support and inspiration.
+- Special Thanks to Code Alpha for giving this as a task on my internship journey.
 
